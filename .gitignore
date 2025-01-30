@@ -1,0 +1,14 @@
+# 编译输出目录
+bin/
+obj/
+
+# NuGet 包目录
+packages/
+
+# 用户特定文件
+*.user
+*.suo
+*.userprefs
+
+# Visual Studio 临时文件
+.vs/
