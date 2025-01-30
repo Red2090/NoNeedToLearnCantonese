@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\textoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:textoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\sendmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:sendmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\keyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:keyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|c:\\users\\19785\\desktop\\noneedtolearncantonese\\getcaretposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEBDDC-94C8-4612-A0F3-527F2D2C7F8F}|NoNeedToLearnCantonese.csproj|solutionrelative:getcaretposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-01-30T00:15:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:28:09.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KeyBoardHook.cs",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\KeyBoardHook.cs",
+              "RelativeDocumentMoniker": "KeyBoardHook.cs",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\KeyBoardHook.cs",
+              "RelativeToolTip": "KeyBoardHook.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAUwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:45:36.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendMsg.cs",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\SendMsg.cs",
+              "RelativeDocumentMoniker": "SendMsg.cs",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\SendMsg.cs",
+              "RelativeToolTip": "SendMsg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:44:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:23:51.547Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextOperation.cs",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\TextOperation.cs",
+              "RelativeDocumentMoniker": "TextOperation.cs",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\TextOperation.cs",
+              "RelativeToolTip": "TextOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:44:24.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\AIService.cs",
+              "RelativeDocumentMoniker": "AIService.cs",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\AIService.cs",
+              "RelativeToolTip": "AIService.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwJYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:34:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetCaretPosition.cs",
+              "DocumentMoniker": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\GetCaretPosition.cs",
+              "RelativeDocumentMoniker": "GetCaretPosition.cs",
+              "ToolTip": "C:\\Users\\19785\\Desktop\\NoNeedToLearnCantonese\\GetCaretPosition.cs",
+              "RelativeToolTip": "GetCaretPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:44:03.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
